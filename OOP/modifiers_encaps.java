@@ -1,4 +1,4 @@
-public class Main {
+public class modifiers_encaps {
     public static class Book {
         private int pages;
         private String author;
@@ -29,4 +29,4 @@ public class Main {
     }
 }
 
-// Use protect if you want it to be available in sub class , private for only that class
+// Use protected if you want it to be available in sub class , private for only that class
