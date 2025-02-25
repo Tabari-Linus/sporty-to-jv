@@ -28,3 +28,5 @@ public class Main {
         book.printDetails();
     }
 }
+
+// Use protect if you want it to be available in sub class , private for only that class
